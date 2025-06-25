@@ -24,6 +24,7 @@
 ##  Features
 
 - Fetch Employee Data and Retrieves data from a public API custom.
+- It has a method to compute the total income by summing the income (salary) values of all employees.
 
 ---
 
