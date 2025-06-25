@@ -1,4 +1,4 @@
-#  BudgetMind
+## Two-Two5
 
 ---
 
@@ -9,15 +9,15 @@
 
 ##  Table of Contents
 
-- [BudgetMind](#budgetmind)
-  - [Description](#description)
-  - [Table of Contents](#table-of-contents)
-  - [Features](#features)
-  - [Tech Stack](#tech-stack)
-  - [Installation \& setup](#installation--setup)
-      - [Clone:](#clone)
-  - [Contributing](#contributing)
-  - [Contact](#contact)
+- [Two-Two5](#two-two5)
+- [Description](#description)
+- [Table of Contents](#table-of-contents)
+- [Features](#features)
+- [Tech Stack](#tech-stack)
+- [Installation \& setup](#installation--setup)
+    - [Clone:](#clone)
+- [Contributing](#contributing)
+- [Contact](#contact)
 
 ---
 
