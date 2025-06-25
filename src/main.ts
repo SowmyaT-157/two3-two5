@@ -1,5 +1,4 @@
 console.log("twoThree - twoFive")
-
 import { fetchEmployeData } from "./employData/data";
 
 fetchEmployeData()
