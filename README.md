@@ -25,7 +25,10 @@
 
 - Fetch Employee Data and Retrieves data from a public API custom.
 - It has a method to compute the total income by summing the income (salary) values of all employees.
-
+- modify an employee's role using their unique id.
+- Retrieve full employee details based on their ID.
+- Filter the list of employees by a specific location.
+- Write a list of employees filtered by location to a file in a readable format.
 ---
 
 ##  Tech Stack
