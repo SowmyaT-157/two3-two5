@@ -3,3 +3,4 @@ export function findEmployeeById(employees: Employee[], id: number): Employee | 
   const found = employees.find(emp => emp.id === id);
   return found || null;
 }
+
